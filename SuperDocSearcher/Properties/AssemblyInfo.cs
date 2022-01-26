@@ -9,7 +9,7 @@ using System.Resources;
 [assembly: AssemblyTitle("文档搜索神器")]
 [assembly: AssemblyDescription("支持文档内容搜索")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hikvision")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SuperDocSearcher")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
