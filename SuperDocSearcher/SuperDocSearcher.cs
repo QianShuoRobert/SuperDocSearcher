@@ -2450,7 +2450,7 @@ namespace SuperDocSearcher
 
         private void ToolStripMenuItemFeedback_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("请将详细描述发送邮件到qianshuo@hikvision.com", "问题和建议");
+            MessageBox.Show("请将详细描述发送邮件到 891581750@qq.com", "问题和建议");
         }
 
         private void SetTextEncodingType(string strTextEncodingType)
